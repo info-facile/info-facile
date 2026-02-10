@@ -1,16 +1,27 @@
-## Hi there 👋
+# Bonjour, je suis Info-Facile 👋
 
-<!--
-**info-facile/info-facile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur passionné par l'automatisation et la simplification des tâches répétitives grâce à Excel, VBA et Outlook.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Compétences
+- **Excel / VBA** : macros, automatisation, reporting
+- **Outlook Automation** : gestion automatique des emails
+- **Git & GitHub** : suivi de projets et partage de code
+- **Gestion de projets** : organisation et optimisation de workflows
+
+---
+
+## 📂 Projets récents
+- [Automatisation des certificats](https://github.com/info-facile/projet-certificat) – Création automatique de certificats depuis Excel
+- [Gestion des emails](https://github.com/info-facile/gestion-emails) – Automatisation de l’envoi et suivi des emails
+
+---
+
+## 📫 Contact
+- LinkedIn : [Ton Profil LinkedIn](https://www.linkedin.com/in/tonprofil)
+- Email : ton.email@example.com
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=info-facile&show_icons=true&theme=radical)
