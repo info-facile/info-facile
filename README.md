@@ -13,7 +13,7 @@ Développeur passionné par l'automatisation et la simplification des tâches r�
 ---
 
 ## 📂 Projets récents
-- [Répartition du salaire selon différents postes](https://github.com/info-facile/Repartition-salaire-selon-les-postes.git) – Création automatique de certificats depuis Excel
+- [Répartition du salaire selon différents postes](https://github.com/info-facile/Repartition-salaire-selon-les-postes/blob/main/DESCRIPTION.md) – Création automatique de certificats depuis Excel
 - [Gestion des emails](https://github.com/info-facile/gestion-emails) – Automatisation de l’envoi et suivi des emails
 
 ---
